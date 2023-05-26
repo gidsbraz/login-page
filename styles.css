@@ -22,7 +22,31 @@ h1{
 }
 
 h2{
+  color: #474749;
   font-family: 'Roboto', sans-serif;
   font-size: 12px;
   font-weight: 400;
+}
+
+#email {
+  font-family: 'Roboto', sans-serif!important;
+  font-size: 12px;
+  font-weight: 400;
+}
+
+#senha {
+  font-family: 'Roboto', sans-serif!important;
+  font-size: 12px;
+  font-weight: 400;
+}
+
+
+
+#button{
+  font-family: 'Roboto', sans-serif!important;
+  font-size: 12px;
+  font-weight: 400;
+  background-color: var(--green--300);
+  border-radius: 10px;
+  
 }
