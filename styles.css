@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  outline: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  --black--500: #000;
+  --white--5000: #fff;
+
+  --green--300: #00A551;
+  --gray--100: #F5F5F5;
+}
+
+h1{
+  color: #00A551;
+  font-family: 'Roboto', sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+}
+
+h2{
+  font-family: 'Roboto', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+}
